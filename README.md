@@ -47,7 +47,7 @@ Feel free to contribute to the repository by opening issues, submitting pull req
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), so feel free to use, modify, and distribute the code.
+This project is licensed under the University of Science, VNU, so please use it only as material instead of commercial purpose.
 
 ## Acknowledgments
 
