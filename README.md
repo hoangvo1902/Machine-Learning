@@ -1,6 +1,7 @@
 # Machine Learning Projects
 
 Welcome to my machine learning project repository! 🚀 Here, you'll find implementations of various algorithms in Julia for solving different types of problems.
+
 Remember that all the exercises in this repository are in the course Introduction to Machine Learning - CSC14005 of HCMUS.
 
 ## Table of Contents
